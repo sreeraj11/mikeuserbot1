@@ -1,5 +1,5 @@
 
-### Host Friday In Heroku
+### Host Mike Bot In Heroku
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sreeraj11/mikeuserbot1)
 
