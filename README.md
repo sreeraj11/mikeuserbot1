@@ -1,16 +1,3 @@
-# FRIDAY-USERBOT
-
-<p align="center">
-<img src="https://telegra.ph/file/22535f8051a58af113586.jpg" alt="FRIDAY USERBOT">
-
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-
-
-Best User Bot To Manage Your Telegram Account 
-## Most PowerFul And Better And Secure
-
 
 ### Host Friday In Heroku
 
@@ -25,7 +12,7 @@ Best User Bot To Manage Your Telegram Account
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/starkGang/Fridayuserbot
+git clone https://github.com/sreeraj11/mikeuserbot1
 cd FridayUserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
