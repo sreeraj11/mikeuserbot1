@@ -10,7 +10,7 @@ from telethon.tl.types import ChannelParticipantsAdmins
 @borg.on(admin_cmd(pattern="cc ?(.*)"))
 
 async def payf(event):
-    input_str=event.pattern_match.group(100)
+    input_str=event.pattern_match(100)
     if input_str:
         paytext=input_str
         await event.edit(paytext)
